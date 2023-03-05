@@ -1,6 +1,7 @@
 # open-conference-2023
 
 # MySQL - 20230305-01
+
 ##　問　次のテーブル《items》のidが2であるデータについて、priorityが重複していないかを調べるクエリを書きましょう
 ### 《items》
 
